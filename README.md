@@ -3,7 +3,7 @@
 
 <sup>1</sup>  Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Corrensstraße 3, 06466 Stadt Seeland OT Gatersleben, Germany)
 
-<sup>2</sup> Computational Biology, Faculty of Biology, Bielefeld University, Universitätsstraße 25, 33615 Bielefeld, Germany}
+<sup>2</sup> Computational Biology, Faculty of Biology, Bielefeld University, Universitätsstraße 25, 33615 Bielefeld, Germany
 
 
 ### Figure 1
