@@ -1,0 +1,5 @@
+cobra == 0.8.2 
+escher == 1.6.0
+plotly == 3.8.0
+pandas == 0.20.3
+numpy == 1.13.1
