@@ -6,13 +6,13 @@ channels:
   - defaults
   - http://conda.anaconda.org/gurobi
 dependencies:
-  - plotly=3.8.0=py_0
-  - seaborn=0.7.1=py27_0
-  - pytest=2.9.2=py27_0
-  - python=2.7.6
+  - plotly=3.8.0
+  - seaborn=0.7.1
+  - pytest=2.9.2
+  - python=2.7.*
   - pip==19.1
-  - tqdm=4.11.2=py27_0
-  - xlrd=1.0.0=py27_0
+  - tqdm=4.11.2
+  - xlrd=1.0.0
   - pip:
     - cobra==0.8.2
     - colorlover==0.2.1
