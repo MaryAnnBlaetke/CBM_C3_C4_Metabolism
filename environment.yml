@@ -1,5 +1,12 @@
-cobra == 0.8.2 
-escher == 1.6.0
-plotly == 3.8.0
-pandas == 0.20.3
-numpy == 1.13.1
+name: base
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - plotly=3.8.0=py_0
+  
+ - pip:
+    - cobra==0.8.2
+    - pandas==0.20.3
+    - numpy==1.13.1
