@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ma-blaetke/2019_05_07-mb-c3-c4-analysis-eLife-supp/master)
+
 # Evolution of C4 photosynthesis predicted by constraint-based modelling - Supplementary Data
 [Mary-Ann Blätke](blaetke@ipk-gatersleben.de)<sup>1</sup>, [Andrea Bräutigam](andrea.braeutigam@uni-bielefeld.de)<sup>2</sup>
 
