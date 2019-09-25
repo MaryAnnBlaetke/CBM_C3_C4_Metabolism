@@ -13,14 +13,15 @@ dependencies:
   - pip==19.1
   - tqdm=4.11.2
   - xlrd=1.0.0
+  - goatools=0.6.10
   - pip:
     - cobra==0.8.2
     - colorlover==0.2.1
     - escher==1.6.0
-    - numpy==1.13.1
+    - numpy==1.13.*
     - optlang==1.2.1
-    - pandas==0.20.3
+    - pandas==0.20.*
     - tabulate==0.7.7
-    - scipy==0.19.1
+    - scipy==0.19.*
 prefix: //anaconda
 
