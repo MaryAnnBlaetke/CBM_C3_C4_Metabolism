@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ma-blaetke/CBM_C3_C4_Metabolism/master)
 
-# Evolution of C4 photosynthesis predicted by constraint-based modelling - Supplementary Data
+# Evolution of C4 photosynthesis predicted by constraint-based modelling - Figure Source Data
 [Mary-Ann Blätke](blaetke@ipk-gatersleben.de)<sup>1</sup>, [Andrea Bräutigam](andrea.braeutigam@uni-bielefeld.de)<sup>2</sup>
 
 <sup>1</sup>  Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Corrensstraße 3, 06466 Stadt Seeland OT Gatersleben, Germany)
