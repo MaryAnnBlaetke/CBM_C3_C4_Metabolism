@@ -13,7 +13,7 @@ The directory [notebooks](notebooks) contains all jupyter notebooks. To run the 
 
 ### Figure 1
 - [Figure 1–source data 1. SBML code of the genC3 model](data/2018-23-05-mb-genC3.sbml)
-- [Figure 1–source data 2. Flus solution of one-cell C3 model](data/c3_flux_solution_one_cell_model.csv)
+- [Figure 1–source data 2. Flux solution of one-cell C3 model](data/c3_flux_solution_one_cell_model.csv)
 - [Figure 1–source data 3. Jupyter notebook - Predicted Fluxes of C3 metabolism](notebooks/2019-05-06-mb-genC3.ipynb)   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ma-blaetke/CBM_C3_C4_Metabolism/master?filepath=notebooks%2F2019-05-06-mb-genC3.ipynb)
 - [Figure 1–source data 4. Jupyter notebook - Effect of the CO2 uptake rate on C3 metabolism](notebooks/2019-05-06-mb-genC3-CO2-Effect.ipynb)   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ma-blaetke/CBM_C3_C4_Metabolism/master?filepath=notebooks%2F2019-05-06-mb-genC3-CO2-Effect.ipynb)
 - [Figure 1–source data 5. Jupyter notebook - Effect of the PPFD on C3 metabolism](notebooks/2019-05-06-mb-genC3-Light-Effect.ipynb).  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ma-blaetke/CBM_C3_C4_Metabolism/master?filepath=notebooks%2F2019-05-06-mb-genC3-Light-Effect.ipynb)
